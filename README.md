@@ -21,13 +21,7 @@
 
 **Davids** is a multi-repository `.NET 10` e-commerce and identity platform orchestrated locally with **.NET Aspire** and hardened for **Kubernetes + Istio `STRICT` mTLS**. Customers and workforce staff are physically isolated across separate OpenIddict `RS256` OIDC realms, separate Gateway Backend-for-Frontend (BFF) cookies, and seven isolated SQL Server databases.
 
-<p align="center">
-  <a href="https://github.com/dav-Ste/Davids">
-    <img src="https://raw.githubusercontent.com/dav-Ste/Davids/main/docs/architecture-and-security.svg" alt="Davids Platform Architecture & Security Topology" width="100%" />
-  </a>
-</p>
-
-### Repository Map
+## Repository Map
 
 | Domain | Repository | Highlights |
 |---|---|---|
