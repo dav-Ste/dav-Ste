@@ -144,6 +144,7 @@ I'm interested in connecting with .NET developers, software architects and secur
 
 - **GitHub:** [github.com/dav-Ste](https://github.com/dav-Ste)
 - **Projects:** [Explore my repositories](https://github.com/dav-Ste?tab=repositories)
+- **LinkedIn:** [Connect via LinkedIn](https://www.linkedin.com/in/david-stevenson-638810440) 
 
 ---
 
