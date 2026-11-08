@@ -1,6 +1,9 @@
 # David Stevenson
 ### .NET & Distributed Systems Engineer | Application Security | Cloud-Native Architecture
 
+[![.NET Foundation — Member](https://img.shields.io/badge/.NET_Foundation-Member-512BD4?logo=dotnet&logoColor=white)](https://dotnetfoundation.org/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-stevenson-dotnet/)
+
 I build modern, security-focused applications and distributed systems using **C#, .NET and Microsoft technologies**.
 
 My interests include Clean Architecture, microservices, identity and access management, application security, AI integration and cloud-native development.
